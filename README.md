@@ -90,7 +90,7 @@ const emanuel = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 [Obsidian Database](https://github.com/emnfrc/obsidian-database)
+### 🔐 [Obsidian Database](https://github.com/emnfrc/oxidian-database)
 
 <div align="center">
   <a href="https://github.com/emnfrc/oxidian-database">
@@ -161,11 +161,13 @@ nextProjects.forEach(project => {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=emnfrc&theme=tokyonight&border=9d7bd8&ring=9d7bd8&fire=9d7bd8&currStreakLabel=9d7bd8&background=0d1117" alt="GitHub Streak"/>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emnfrc&bg_color=0d1117&color=9d7bd8&line=9d7bd8&point=ffffff&area=true&hide_border=false&border_color=9d7bd8)
+
 </div>
 
 ---
 
-## 🎓 Certifications & Apprentissage
+## 📎 Certifications & Apprentissage
 
 <div align="center">
 
