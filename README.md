@@ -115,7 +115,7 @@ Features:
 **Technologies:**  
 `React` `Node.js` `Express` `SQLite` `Tailwind CSS`
 
-🔗 **[Voir le projet →](https://github.com/emnfrc/oxidian-database)**
+🔗 **[Voir le projet →](https://github.com/emnfrc/obsidian-database)**
 
 </td>
 
@@ -155,13 +155,9 @@ nextProjects.forEach(project => {
 
 <div align="center">
 
-<a href="https://github.com/emnfrc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emnfrc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9d7bd8&icon_color=9d7bd8&text_color=ffffff"/>
-</a>
+![Stats](https://github-readme-stats.vercel.app/api?username=emnfrc&show_icons=true&theme=tokyonight&hide_border=false&border_color=9d7bd8&title_color=9d7bd8&icon_color=9d7bd8&text_color=ffffff&bg_color=0d1117)
 
-<a href="https://github.com/emnfrc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnfrc&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9d7bd8&text_color=ffffff"/>
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emnfrc&layout=compact&theme=tokyonight&hide_border=false&border_color=9d7bd8&title_color=9d7bd8&text_color=ffffff&bg_color=0d1117)
 
 </div>
 
@@ -169,7 +165,7 @@ nextProjects.forEach(project => {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=emnfrc&theme=radical&hide_border=true&background=0d1117&ring=9d7bd8&fire=9d7bd8&currStreakLabel=9d7bd8)](https://github.com/emnfrc)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emnfrc&theme=tokyonight&hide_border=false&border=9d7bd8&stroke=9d7bd8&ring=9d7bd8&fire=ff6b6b&currStreakLabel=9d7bd8&background=0d1117)
 
 </div>
 
@@ -177,7 +173,7 @@ nextProjects.forEach(project => {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emnfrc&custom_title=Contribution%20Graph&bg_color=0d1117&color=9d7bd8&line=9d7bd8&point=ffffff&area=true&hide_border=true)](https://github.com/emnfrc)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emnfrc&bg_color=0d1117&color=9d7bd8&line=9d7bd8&point=ffffff&area=true&hide_border=false&border_color=9d7bd8)
 
 </div>
 
