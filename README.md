@@ -155,10 +155,6 @@ nextProjects.forEach(project => {
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=emnfrc&show_icons=true&theme=tokyonight&hide_border=false&border_color=9d7bd8&title_color=9d7bd8&icon_color=9d7bd8&text_color=ffffff&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emnfrc&layout=compact&theme=tokyonight&hide_border=false&border_color=9d7bd8&title_color=9d7bd8&text_color=ffffff&bg_color=0d1117)
-
 </div>
 
 <br/>
