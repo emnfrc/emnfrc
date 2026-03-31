@@ -159,9 +159,17 @@ nextProjects.forEach(project => {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnfrc&layout=compact&langs_count=8&theme=tokyonight&border_color=9d7bd8&title_color=9d7bd8&bg_color=0d1117"/>
 
+</div>
+
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=emnfrc&theme=tokyonight&border=9d7bd8&ring=9d7bd8&fire=9d7bd8&currStreakLabel=9d7bd8&background=0d1117" alt="GitHub Streak"/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emnfrc&bg_color=0d1117&color=9d7bd8&line=9d7bd8&point=ffffff&area=true&hide_border=false&border_color=9d7bd8)
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emnfrc&bg_color=0d1117&color=9d7bd8&line=9d7bd8&point=ffffff&area=true&hide_border=false&border_color=9d7bd8)
 
 </div>
 
