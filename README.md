@@ -155,21 +155,29 @@ nextProjects.forEach(project => {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emnfrc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=9d7bd8&title_color=9d7bd8&icon_color=9d7bd8&bg_color=0d1117"/>
+<a href="https://github.com/emnfrc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emnfrc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9d7bd8&icon_color=9d7bd8&text_color=ffffff"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnfrc&layout=compact&langs_count=8&theme=tokyonight&border_color=9d7bd8&title_color=9d7bd8&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emnfrc&theme=tokyonight&border=9d7bd8&ring=9d7bd8&fire=9d7bd8&currStreakLabel=9d7bd8&background=0d1117" alt="GitHub Streak"/>
+<a href="https://github.com/emnfrc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnfrc&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9d7bd8&text_color=ffffff"/>
+</a>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emnfrc&bg_color=0d1117&color=9d7bd8&line=9d7bd8&point=ffffff&area=true&hide_border=false&border_color=9d7bd8)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=emnfrc&theme=radical&hide_border=true&background=0d1117&ring=9d7bd8&fire=9d7bd8&currStreakLabel=9d7bd8)](https://github.com/emnfrc)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emnfrc&custom_title=Contribution%20Graph&bg_color=0d1117&color=9d7bd8&line=9d7bd8&point=ffffff&area=true&hide_border=true)](https://github.com/emnfrc)
 
 </div>
 
@@ -227,13 +235,13 @@ class CyberSecurityStudent:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-emnfrc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emnfrc)
-[![Email](https://img.shields.io/badge/Email-Contact-9d7bd8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-9d7bd8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emn.frc@proton.me)
 
 ---
 
 ### 🌟 Merci de votre visite !
 
-![Visitor Count](https://profile-counter.glitch.me/emnfrc/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=emnfrc&color=9d7bd8&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
