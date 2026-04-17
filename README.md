@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Emanuel
+# 👋 Salut, moi c'est Dr1z
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D7BD8&center=true&vCenter=true&random=false&width=600&lines=Étudiant+en+Cybersécurité+%F0%9F%94%90;Développeur+Full-Stack+%F0%9F%92%BB;Passionné+par+la+Cyber+%F0%9F%9B%A1%EF%B8%8F;Basé+à+Paris%2C+France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
 
@@ -18,7 +18,7 @@
 ## 🎯 À propos de moi
 
 ```typescript
-const emanuel = {
+const driz = {
   age: 16,
   location: "Paris 🇫🇷",
   education: "Étudiant en Cybersécurité",
@@ -90,10 +90,10 @@ const emanuel = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 [Obsidian Database](https://github.com/emnfrc/oxidian-database)
+### 🔐 [Obsidian Database](https://github.com/dr1z-fr/oxidian-database)
 
 <div align="center">
-  <a href="https://github.com/emnfrc/oxidian-database">
+  <a href="https://github.com/dr1z-fr/oxidian-database">
     <img src="https://i.imgur.com/e1lT5GP.png" alt="Obsidian Database" width="400"/>
   </a>
 </div>
@@ -115,7 +115,7 @@ Features:
 **Technologies:**  
 `React` `Node.js` `Express` `SQLite` `Tailwind CSS`
 
-🔗 **[Voir le projet →](https://github.com/emnfrc/obsidian-database)**
+🔗 **[Voir le projet →](https://github.com/dr1z-fr/obsidian-database)**
 
 </td>
 
@@ -161,7 +161,7 @@ nextProjects.forEach(project => {
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emnfrc&theme=tokyonight&hide_border=false&border=9d7bd8&stroke=9d7bd8&ring=9d7bd8&fire=ff6b6b&currStreakLabel=9d7bd8&background=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dr1z-fr&theme=tokyonight&hide_border=false&border=9d7bd8&stroke=9d7bd8&ring=9d7bd8&fire=ff6b6b&currStreakLabel=9d7bd8&background=0d1117)
 
 </div>
 
@@ -169,7 +169,7 @@ nextProjects.forEach(project => {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emnfrc&bg_color=0d1117&color=9d7bd8&line=9d7bd8&point=ffffff&area=true&hide_border=false&border_color=9d7bd8)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dr1z-fr&bg_color=0d1117&color=9d7bd8&line=9d7bd8&point=ffffff&area=true&hide_border=false&border_color=9d7bd8)
 
 </div>
 
@@ -222,18 +222,9 @@ class CyberSecurityStudent:
 
 ---
 
-## 📫 Contact & Réseaux
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-emnfrc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emnfrc)
-[![Email](https://img.shields.io/badge/Email-Contact-9d7bd8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emn.frc@proton.me)
-
----
-
 ### 🌟 Merci de votre visite !
 
-![Profile Views](https://komarev.com/ghpvc/?username=emnfrc&color=9d7bd8&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=dr1z-fr&color=9d7bd8&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
@@ -243,7 +234,7 @@ class CyberSecurityStudent:
 
 <div align="center">
 
-**💜 Fait avec passion | © 2026 Emanuel**
+**💜 Fait avec passion | © 2026 Dr1z**
 
 ```
      _____ _                 _                            
