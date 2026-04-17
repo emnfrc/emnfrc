@@ -90,10 +90,9 @@ const driz = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 [Obsidian Database](https://github.com/dr1z-fr/oxidian-database)
+### 🔐 Obsidian Database
 
 <div align="center">
-  <a href="https://github.com/dr1z-fr/oxidian-database">
     <img src="https://i.imgur.com/e1lT5GP.png" alt="Obsidian Database" width="400"/>
   </a>
 </div>
@@ -114,8 +113,6 @@ Features:
 
 **Technologies:**  
 `React` `Node.js` `Express` `SQLite` `Tailwind CSS`
-
-🔗 **[Voir le projet →](https://github.com/dr1z-fr/obsidian-database)**
 
 </td>
 
